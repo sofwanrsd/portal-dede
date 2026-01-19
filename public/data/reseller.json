@@ -1,0 +1,32 @@
+[
+  {
+    "level": "Bronze",
+    "price": "Rp 50.000",
+    "benefits": [
+      "Harga reseller termurah",
+      "Support 24 jam",
+      "Akses tools premium",
+      "Komisi 10%"
+    ]
+  },
+  {
+    "level": "Silver",
+    "price": "Rp 100.000",
+    "benefits": [
+      "Semua benefit Bronze",
+      "Komisi 15%",
+      "Priority support",
+      "Gratis ongkir"
+    ]
+  },
+  {
+    "level": "Gold",
+    "price": "Rp 200.000",
+    "benefits": [
+      "Semua benefit Silver",
+      "Komisi 20%",
+      "Dedicated account manager",
+      "Marketing materials gratis"
+    ]
+  }
+]

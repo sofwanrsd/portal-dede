@@ -1,0 +1,37 @@
+[
+    {
+        "category": "Tentang Taveve",
+        "items": [
+            {
+                "question": "Apa itu Taveve Store?",
+                "answer": "Taveve Store adalah penyedia layanan digital premium dengan sistem otomatis 24/7 untuk berbagai produk digital seperti subscription, tools, dan layanan lainnya."
+            },
+            {
+                "question": "Apakah Taveve aman?",
+                "answer": "Ya, transaksi dilakukan otomatis melalui sistem yang aman dan terpercaya. Semua produk dijamin original dan bergaransi."
+            }
+        ]
+    },
+    {
+        "category": "Pemesanan",
+        "items": [
+            {
+                "question": "Bagaimana cara order?",
+                "answer": "Anda bisa order melalui WhatsApp bot 24/7 atau langsung melalui webstore kami. Proses otomatis dan produk langsung dikirim setelah pembayaran dikonfirmasi."
+            },
+            {
+                "question": "Berapa lama proses pengiriman?",
+                "answer": "Produk digital dikirim otomatis dalam hitungan menit setelah pembayaran terkonfirmasi."
+            }
+        ]
+    },
+    {
+        "category": "Pembayaran",
+        "items": [
+            {
+                "question": "Metode pembayaran apa saja yang tersedia?",
+                "answer": "Kami menerima berbagai metode pembayaran termasuk transfer bank, e-wallet (OVO, DANA, GoPay), dan QRIS."
+            }
+        ]
+    }
+]

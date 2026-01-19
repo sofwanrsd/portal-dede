@@ -1,0 +1,38 @@
+[
+    {
+        "label": "Order Sekarang (24/7)",
+        "subtitle": "Bot Telegram & Webstore otomatis",
+        "icon": "ri-shopping-bag-3-fill",
+        "link": "/order"
+    },
+    {
+        "label": "Kontak Admin",
+        "subtitle": "Chat dengan tim kami",
+        "icon": "ri-customer-service-fill",
+        "link": "/admin"
+    },
+    {
+        "label": "Ketentuan Garansi",
+        "subtitle": "Baca garansi produk",
+        "icon": "ri-shield-check-fill",
+        "link": "/warranty"
+    },
+    {
+        "label": "FAQ",
+        "subtitle": "Pertanyaan umum",
+        "icon": "ri-question-line",
+        "link": "/faq"
+    },
+    {
+        "label": "Tools",
+        "subtitle": "Tools penting",
+        "icon": "ri-tools-fill",
+        "link": "/tools"
+    },
+    {
+        "label": "Gabung Reseller",
+        "subtitle": "Jadi reseller Taveve",
+        "icon": "ri-hand-heart-line",
+        "link": "/reseller"
+    }
+]

@@ -1,0 +1,398 @@
+[
+  {
+    "product": "Alight Motion - 12 Bulan",
+    "garansi": [
+      "Garansi 3 bulan (90 hari) backfree",
+      "Akun dari seller dengan akses email"
+    ],
+    "syarat": [
+      "Login via app resmi",
+      "Maksimal 2 perangkat",
+      "Boleh dibagikan ke pihak lain",
+      "Tidak ada refund setelah aktivasi"
+    ]
+  },
+  {
+    "product": "Canva EDU - Lifetime",
+    "garansi": [
+      "Garansi 90 hari (3 bulan)",
+      "Terhitung sejak tanggal pembelian"
+    ],
+    "syarat": [
+      "Join via invite link EDU",
+      "Claim garansi chat admin"
+    ]
+  },
+  {
+    "product": "Canva Pro Member - 1 Bulan",
+    "garansi": [
+      "Garansi 20 hari terhitung dari tanggal pembelian",
+      "Durasi aktif 20-30++ hari"
+    ],
+    "syarat": [
+      "Join menggunakan invite link yang diberikan",
+      "Login via Canva, bukan Google",
+      "Dilarang mengganti metode pembayaran"
+    ]
+  },
+  {
+    "product": "Canva Pro Owner - 1 Bulan",
+    "garansi": [
+      "Garansi hingga 25 hari setelah pembelian",
+      "Email dari seller"
+    ],
+    "syarat": [
+      "Wajib kirim bukti login",
+      "Tidak bisa set password sendiri"
+    ]
+  },
+  {
+    "product": "CapCut - 7 Hari",
+    "garansi": [
+      "Garansi backfree 5 Hari"
+    ],
+    "syarat": [
+      "Login max 3-4 Device",
+      "Login via Email bukan Google",
+      "Dilarang keras login logout",
+      "Tidak bisa perpanjang masa aktif"
+    ]
+  },
+  {
+    "product": "CapCut - 14 Hari",
+    "garansi": [
+      "Garansi backfree 10 Hari"
+    ],
+    "syarat": [
+      "Login max 3-4 Device",
+      "Login via Email bukan Google",
+      "Dilarang keras login logout",
+      "Tidak bisa perpanjang masa aktif"
+    ]
+  },
+  {
+    "product": "CapCut - 1 Bulan",
+    "garansi": [
+      "Garansi backfree 20 Hari"
+    ],
+    "syarat": [
+      "Login max 3-4 Device",
+      "Login via Email bukan Google",
+      "Dilarang keras login logout",
+      "Tidak bisa perpanjang masa aktif"
+    ]
+  },
+  {
+    "product": "ChatGPT Business - 1 Bulan",
+    "garansi": [
+      "Garansi 1x replace jika workspace deactive",
+      "Replace maksimal 1x24 jam",
+      "Durasi 26-30 hari = 1 bulan"
+    ],
+    "syarat": [
+      "Akses via invite workspace (bukan akun login)",
+      "Login max 2 perangkat (HP + Laptop)",
+      "History akan terhapus setelah masa aktif",
+      "Dilarang ganti email & share ke orang lain",
+      "Perpanjangan harus beli ulang"
+    ]
+  },
+  {
+    "product": "Duolingo - 1 Bulan",
+    "garansi": [
+      "Garansi Backfree 20 Hari"
+    ],
+    "syarat": [
+      "Via Invite ke Family Duolingo",
+      "Private pake akun sendiri"
+    ]
+  },
+  {
+    "product": "Gemini AI - 1 Bulan",
+    "garansi": [
+      "Garansi 20 Hari"
+    ],
+    "syarat": [
+      "Via Invite ke Family Google",
+      "Login private email sendiri"
+    ]
+  },
+  {
+    "product": "Gemini AI - 1 Tahun",
+    "garansi": [
+      "Garansi 6 Bulan",
+      "Dihitung dari tanggal pembelian"
+    ],
+    "syarat": [
+      "Via Invite ke Family Google",
+      "Durasi paket 1 Tahun (6-12 Bulan)"
+    ]
+  },
+  {
+    "product": "Get Contact - 1 Bulan",
+    "garansi": [
+      "Proses maksimal 1x12 jam",
+      "Durasi 25-30 hari = 1 bulan"
+    ],
+    "syarat": [
+      "Proses hanya menggunakan nomor",
+      "Tidak bisa ditumpuk jika masih mode profesional",
+      "Akun pelanggan, bukan mod",
+      "Bisa perpanjang jika Pro sudah habis"
+    ]
+  },
+  {
+    "product": "Netflix - 3 Hari",
+    "garansi": [
+      "Full garansi 3 hari",
+      "Garansi fixing 1x24 jam"
+    ],
+    "syarat": [
+      "1 Profil = 1 Device",
+      "Dilarang merubah email dan password",
+      "Dilarang menggunakan VPN",
+      "Dilarang pindah-pindah device",
+      "Dilarang edit profil dan PIN"
+    ]
+  },
+  {
+    "product": "Netflix - 7 Hari",
+    "garansi": [
+      "Full garansi 6 hari",
+      "Garansi fixing 1x24 jam"
+    ],
+    "syarat": [
+      "1 Profil = 1 Device",
+      "Dilarang merubah email dan password",
+      "Dilarang menggunakan VPN",
+      "Dilarang pindah-pindah device",
+      "Dilarang edit profil dan PIN",
+      "Wajib kasih tau device & lokasi setelah login"
+    ]
+  },
+  {
+    "product": "Netflix - 1 Bulan",
+    "garansi": [
+      "Garansi fixing 1x24 jam",
+      "Durasi 25-30 hari = 1 bulan",
+      "Kemungkinan ada pergantian password (akan diinfokan)"
+    ],
+    "syarat": [
+      "1 Profil = 1 Device",
+      "Dilarang merubah email dan password",
+      "Dilarang menggunakan VPN",
+      "Dilarang pindah-pindah device",
+      "Dilarang edit profil dan PIN",
+      "Wajib kasih tau device & lokasi setelah login"
+    ]
+  },
+  {
+    "product": "Picsart - 1 Bulan",
+    "garansi": [
+      "Garansi backfree 20 hari (bukan nonaktif)",
+      "Garansi Terhitung Sejak Tanggal Pembelian"
+    ],
+    "syarat": [
+      "Akun Privat Dari Seller / Invite Ke Email Pribadi",
+      "Full fitur premium"
+    ]
+  },
+  {
+    "product": "Prime Video - 1 Bulan",
+    "garansi": [
+      "Garansi backfree 25 hari",
+      "Durasi 1 bulan"
+    ],
+    "syarat": [
+      "Prime with ads (15 detik di awal)",
+      "Support login all devices",
+      "Tidak termasuk film sewa/rental"
+    ]
+  },
+  {
+    "product": "Scribd - 1 Bulan",
+    "garansi": [
+      "Garansi Backfree 20 Hari"
+    ],
+    "syarat": [
+      "Email seller",
+      "Private account"
+    ]
+  },
+  {
+    "product": "Spotify (Bergaransi) - 1 Bulan",
+    "garansi": [
+      "Full garansi 20 hari",
+      "25-30 hari = 1 bulan"
+    ],
+    "syarat": [
+      "Akun dari seller, region mix",
+      "Plan student only",
+      "Bisa login pakai kode"
+    ]
+  },
+  {
+    "product": "Spotify (No Garansi) - 1 Bulan",
+    "garansi": [
+      "Garansi login saja",
+      "25-30 hari = 1 bulan"
+    ],
+    "syarat": [
+      "Akun dari seller, region mix",
+      "Plan student only",
+      "Bisa login pakai kode",
+      "Wajib kirim bukti login 1x24 jam"
+    ]
+  },
+  {
+    "product": "Vidio All Device - 1 Bulan",
+    "garansi": [
+      "Garansi backfree 20 hari"
+    ],
+    "syarat": [
+      "Login dengan email yang diberikan",
+      "Dilarang mengganti metode pembayaran/plan",
+      "Platinum tidak termasuk EPL"
+    ]
+  },
+  {
+    "product": "Vidio Mobile - 1 Bulan",
+    "garansi": [
+      "Garansi backfree 20 hari"
+    ],
+    "syarat": [
+      "Khusus mobile/HP only",
+      "Login dengan email yang diberikan",
+      "Dilarang mengganti metode pembayaran/plan",
+      "Platinum tidak termasuk EPL"
+    ]
+  },
+  {
+    "product": "Vidio TV - 1 Tahun",
+    "garansi": [
+      "Garansi 1 bulan"
+    ],
+    "syarat": [
+      "Khusus TV only",
+      "Login dengan email yang diberikan",
+      "Dilarang mengganti metode pembayaran/plan",
+      "Platinum tidak termasuk EPL"
+    ]
+  },
+  {
+    "product": "VIU - 1 Tahun",
+    "garansi": [
+      "Garansi 180 hari (6 bulan)",
+      "Selama tidak ganti password, garansi tetap jalan"
+    ],
+    "syarat": [
+      "Akun private dari seller",
+      "Email seller"
+    ]
+  },
+  {
+    "product": "VIU - Lifetime",
+    "garansi": [
+      "Garansi 6 bulan (180 hari)",
+      "Selama tidak ganti password, garansi tetap jalan"
+    ],
+    "syarat": [
+      "Akun private dari seller",
+      "Email seller"
+    ]
+  },
+  {
+    "product": "VPN Express - 1 Bulan",
+    "garansi": [
+      "Full garansi 20 hari"
+    ],
+    "syarat": [
+      "Akun dari seller",
+      "Order manual via admin"
+    ]
+  },
+  {
+    "product": "VPN HMA - 1 Bulan",
+    "garansi": [
+      "Full garansi 20 hari"
+    ],
+    "syarat": [
+      "Akun dari seller",
+      "Login via kode",
+      "Order manual via admin"
+    ]
+  },
+  {
+    "product": "YouTube Family Head - 1 Bulan",
+    "garansi": [
+      "Full garansi 20 hari",
+      "20-30 hari = 1 bulan"
+    ],
+    "syarat": [
+      "Bisa invite 5 orang jadi premium",
+      "Akun dari seller, wajib ganti password",
+      "Lupa password bukan garansi seller"
+    ]
+  },
+  {
+    "product": "YouTube Individual - 1 Bulan",
+    "garansi": [
+      "Full garansi 20 hari",
+      "20-30 hari = 1 bulan"
+    ],
+    "syarat": [
+      "Akun dari seller, wajib ganti password",
+      "Lupa password bukan garansi seller"
+    ]
+  },
+  {
+    "product": "YouTube Individual - 3 Bulan",
+    "garansi": [
+      "Garansi 80 hari",
+      "Bukan mixplan, include YT Music"
+    ],
+    "syarat": [
+      "Akun dari seller, wajib ganti password",
+      "Verifikasi nomor telepon device/nomer sendiri",
+      "Verif/disable tidak garansi",
+      "Jika tidak bisa verif tunggu 2 hari atau ganti nomer",
+      "Jika kenon/channel ke hapus, segera aju banding"
+    ]
+  },
+  {
+    "product": "YouTube Via Invite - 1 Bulan",
+    "garansi": [
+      "Garansi 20-30 Hari",
+      "Sesuai durasi"
+    ],
+    "syarat": [
+      "Join via invite link (Family Individual)",
+      "Bisa pakai email sendiri",
+      "Limit pindah family 1x setahun (harus akun fresh belum pernah join family 12 bulan terakhir)"
+    ]
+  },
+  {
+    "product": "Zoom - 7 Hari",
+    "garansi": [
+      "Garansi backfree 5 hari"
+    ],
+    "syarat": [
+      "Paket PRO 100 peserta",
+      "Maksimal 1 perangkat",
+      "Akun private",
+      "Tidak ada refund setelah aktivasi"
+    ]
+  },
+  {
+    "product": "Zoom - 14 Hari",
+    "garansi": [
+      "Garansi backfree 10 hari"
+    ],
+    "syarat": [
+      "Paket PRO 100 peserta",
+      "Maksimal 1 perangkat",
+      "Akun private",
+      "Tidak ada refund setelah aktivasi"
+    ]
+  }
+]

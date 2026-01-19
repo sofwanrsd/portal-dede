@@ -1,0 +1,14 @@
+[
+    {
+        "name": "Email Generator",
+        "icon": "ri-mail-line"
+    },
+    {
+        "name": "Cek Status Order",
+        "icon": "ri-search-line"
+    },
+    {
+        "name": "Refund Calculator",
+        "icon": "ri-calculator-line"
+    }
+]
