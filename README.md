@@ -2,7 +2,9 @@
 
 > Portal pribadi untuk melihat karya, aktivitas, dan informasi saya dalam satu akses yang simpel.
 
-![Dede Portal](public/logo.png)
+<p align="center">
+  <img src="public/logo.png" alt="Dede Portal" width="120">
+</p>
 
 ## ✨ Fitur
 
@@ -127,3 +129,4 @@ MIT License - Feel free to use for personal projects.
 ---
 
 Made with ❤️ by Dede
+# portal-dede
