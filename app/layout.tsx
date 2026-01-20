@@ -50,6 +50,15 @@ export const metadata: Metadata = {
   },
 };
 
+// Generate CSS variables from config
+const themeStyles = `
+  :root {
+    --taveve-orange: ${siteConfig.colors.primary};
+    --taveve-orange-light: ${siteConfig.colors.primaryLight || siteConfig.colors.primary};
+    --taveve-orange-dark: ${siteConfig.colors.primaryDark || siteConfig.colors.primary};
+  }
+`;
+
 export default function RootLayout({
   children,
 }: Readonly<{
@@ -62,6 +71,7 @@ export default function RootLayout({
           href="https://cdn.jsdelivr.net/npm/remixicon@4.3.0/fonts/remixicon.css"
           rel="stylesheet"
         />
+        <style dangerouslySetInnerHTML={{ __html: themeStyles }} />
       </head>
       <body
         className={`${geistSans.variable} ${geistMono.variable} antialiased`}

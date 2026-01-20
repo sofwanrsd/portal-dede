@@ -1,96 +1,129 @@
-# Taveve Portal
+# Dede Portal
 
-Modern project portal built with Next.js 16, TypeScript, and Tailwind CSS v4. Features glassmorphism design inspired by premiumisme.co with Taveve brand colors.
+> Portal pribadi untuk melihat karya, aktivitas, dan informasi saya dalam satu akses yang simpel.
 
-## 🚀 Features
+![Dede Portal](public/logo.png)
 
-- **Premium Glassmorphism Design**: Translucent cards with backdrop blur effects
-- **Animated Background**: Floating blobs with smooth animations
-- **Responsive**: Mobile-first design, works perfectly on all devices
-- **Dynamic Content**: JSON-based data for easy content management
--**SEO Optimized**: Proper meta tags and semantic HTML
-- **Fast Performance**: Built with Next.js App Router for optimal performance
+## ✨ Fitur
+
+- 🎨 **Tema Maroon** - Warna custom yang dikontrol dari config
+- 📱 **Mobile Responsive** - Optimal di semua ukuran layar
+- 🔗 **Link Categories** - Kategori terorganisir (About, Store, Social, dll)
+- ✅ **Active/Inactive Links** - Status "Coming Soon" atau "On Going"
+- 🌙 **Dark Mode** - Tampilan gelap yang nyaman
+- ♿ **Accessible** - Kontras tinggi, keyboard navigation, reduced motion
+- ⚡ **Fast** - Built with Next.js 16 + Turbopack
 
 ## 🛠️ Tech Stack
 
-- **Framework**: Next.js 16.1.3 (App Router)
-- **Language**: TypeScript
-- **Styling**: Tailwind CSS v4
-- **Icons**: Remix Icons
-- **Deployment**: Vercel
+- [Next.js 16](https://nextjs.org/) - React Framework
+- [TypeScript](https://www.typescriptlang.org/) - Type Safety
+- [Tailwind CSS 4](https://tailwindcss.com/) - Styling
+- [Remix Icons](https://remixicon.com/) - Icons
 
-## 📦 Project Structure
+## 📁 Struktur File
 
 ```
-taveve-portal/
+Portal/
 ├── app/
-│   ├── layout.tsx           # Root layout with fonts and icons
-│   ├── page.tsx             # Homepage with dynamic menu
-│   ├── globals.css          # Global styles and theme
-│   ├── faq/                 # FAQ page with accordion
-│   ├── tools/               # Tools page with tabs
-│   ├── warranty/            # Warranty page with product selector
-│   ├── reseller/            # Reseller tiers page
-│   └── order/               # Order instructions page
+│   ├── config.ts      # Konfigurasi utama (nama, warna, dll)
+│   ├── globals.css    # Styling global & color system
+│   ├── layout.tsx     # Layout wrapper
+│   └── page.tsx       # Halaman utama
 ├── public/
-│   └── data/                # JSON data files
-│       ├── menu.json
-│       ├── faq.json
-│       ├── tools.json
-│       ├── warranty.json
-│       └── reseller.json
-└── vercel.json              # Vercel deployment config
+│   ├── data/
+│   │   └── menu.json  # Data menu & link
+│   ├── logo.png       # Logo
+│   └── icon.png       # Favicon
+└── README.md
 ```
 
-## 🎨 Customization
+## ⚙️ Konfigurasi
 
-### Colors
-The Taveve orange theme is defined in `app/globals.css`:
-```css
---taveve-orange: #ff9f1c;
---taveve-orange-light: #ffa733;
---taveve-orange-dark: #e65f00;
+### Ganti Nama & Deskripsi
+Edit `app/config.ts`:
+```typescript
+export const siteConfig = {
+  name: "Dede Portal",
+  description: "Deskripsi portal kamu",
+  // ...
+}
 ```
 
-### Content
-Edit JSON files in `public/data/` to update content.
+### Ganti Warna Tema
+Edit `app/config.ts`:
+```typescript
+colors: {
+  primary: "#800020",      // Warna Utama (Maroon)
+  primaryLight: "#a00030", // Hover
+  primaryDark: "#5c0018",  // Active
+}
+```
 
-## 🏃‍♂️ Local Development
+### Tambah/Edit Menu
+Edit `public/data/menu.json`:
+```json
+{
+  "category": "Social Media",
+  "items": [
+    {
+      "label": "Instagram",
+      "subtitle": "@username",
+      "icon": "ri-instagram-line",
+      "link": "https://instagram.com/xxx",
+      "active": true
+    },
+    {
+      "label": "TikTok",
+      "subtitle": "Coming Soon",
+      "icon": "ri-tiktok-line",
+      "link": "#",
+      "active": false,
+      "status": "Coming Soon"
+    }
+  ]
+}
+```
 
+### Icons
+Gunakan icon dari [Remix Icons](https://remixicon.com/). Format: `ri-{nama}-line` atau `ri-{nama}-fill`
+
+## 🚀 Development
+
+### Install Dependencies
 ```bash
-# Install dependencies
 npm install
-
-# Run development server
-npm run dev
-
-# Open http://localhost:3000
 ```
 
-## 🚀 Deployment to Vercel
-
-### Via Vercel CLI
+### Run Development Server
 ```bash
-# Install Vercel CLI
-npm install -g vercel
-
-# Login
-vercel login
-
-# Deploy
-vercel
-
-# Deploy to production
-vercel --prod
+npm run dev
 ```
 
-### Via GitHub
-1. Push code to GitHub repository
-2. Go to [vercel.com](https://vercel.com)
-3. Import your GitHub repository
-4. Vercel will auto-detect Next.js and deploy
+### Build Production
+```bash
+npm run build
+```
+
+### Start Production
+```bash
+npm start
+```
+
+## 📝 Checklist Customization
+
+- [ ] Ganti nama di `config.ts`
+- [ ] Ganti deskripsi di `config.ts`
+- [ ] Ganti warna tema di `config.ts`
+- [ ] Ganti logo di `public/logo.png`
+- [ ] Edit menu & link di `public/data/menu.json`
+- [ ] Update social links
+- [ ] Update footer link
+
+## 📄 License
+
+MIT License - Feel free to use for personal projects.
 
 ---
 
-Made with ❤️ by Taveve Store
-# portal-taveve
+Made with ❤️ by Dede

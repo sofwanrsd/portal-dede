@@ -1,38 +1,107 @@
 [
     {
-        "label": "Order Sekarang (24/7)",
-        "subtitle": "Bot Telegram & Webstore otomatis",
-        "icon": "ri-shopping-bag-3-fill",
-        "link": "/order"
+        "category": "About Me",
+        "items": [
+            {
+                "label": "Portfolio",
+                "subtitle": "Lihat karya saya",
+                "icon": "ri-briefcase-line",
+                "link": "https://portfolio.example.com",
+                "active": true
+            },
+            {
+                "label": "CV / Resume",
+                "subtitle": "Download CV saya",
+                "icon": "ri-file-user-line",
+                "link": "https://drive.google.com/xxx",
+                "active": false,
+                "status": "Coming Soon"
+            }
+        ]
     },
     {
-        "label": "Kontak Admin",
-        "subtitle": "Chat dengan tim kami",
-        "icon": "ri-customer-service-fill",
-        "link": "/admin"
+        "category": "Store",
+        "items": [
+            {
+                "label": "Taveve Store",
+                "subtitle": "Produk digital premium",
+                "icon": "ri-shopping-bag-line",
+                "link": "https://t.me/TaveveStoreBot",
+                "active": true
+            },
+            {
+                "label": "Shopee",
+                "subtitle": "Toko online saya",
+                "icon": "ri-store-2-line",
+                "link": "https://shopee.co.id/xxx",
+                "active": false,
+                "status": "On Going"
+            }
+        ]
     },
     {
-        "label": "Ketentuan Garansi",
-        "subtitle": "Baca garansi produk",
-        "icon": "ri-shield-check-fill",
-        "link": "/warranty"
+        "category": "Streaming & Entertainment",
+        "items": [
+            {
+                "label": "YouTube",
+                "subtitle": "Channel YouTube saya",
+                "icon": "ri-youtube-line",
+                "link": "https://youtube.com/@xxx",
+                "active": true
+            },
+            {
+                "label": "Spotify",
+                "subtitle": "Playlist favorit",
+                "icon": "ri-spotify-line",
+                "link": "https://open.spotify.com/xxx",
+                "active": true
+            }
+        ]
     },
     {
-        "label": "FAQ",
-        "subtitle": "Pertanyaan umum",
-        "icon": "ri-question-line",
-        "link": "/faq"
+        "category": "Social Media",
+        "items": [
+            {
+                "label": "Instagram",
+                "subtitle": "@username",
+                "icon": "ri-instagram-line",
+                "link": "https://instagram.com/xxx",
+                "active": true
+            },
+            {
+                "label": "Twitter / X",
+                "subtitle": "@username",
+                "icon": "ri-twitter-x-line",
+                "link": "https://twitter.com/xxx",
+                "active": true
+            },
+            {
+                "label": "TikTok",
+                "subtitle": "@username",
+                "icon": "ri-tiktok-line",
+                "link": "https://tiktok.com/@xxx",
+                "active": false,
+                "status": "Coming Soon"
+            }
+        ]
     },
     {
-        "label": "Tools",
-        "subtitle": "Tools penting",
-        "icon": "ri-tools-fill",
-        "link": "/tools"
-    },
-    {
-        "label": "Gabung Reseller",
-        "subtitle": "Jadi reseller Taveve",
-        "icon": "ri-hand-heart-line",
-        "link": "/reseller"
+        "category": "Contact",
+        "items": [
+            {
+                "label": "WhatsApp",
+                "subtitle": "Chat langsung",
+                "icon": "ri-whatsapp-line",
+                "link": "https://wa.me/62xxx",
+                "active": true
+            },
+            {
+                "label": "Telegram",
+                "subtitle": "Message me",
+                "icon": "ri-telegram-line",
+                "link": "https://t.me/xxx",
+                "active": true
+            }
+        ]
     }
 ]

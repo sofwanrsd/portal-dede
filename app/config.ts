@@ -1,8 +1,8 @@
 export const siteConfig = {
   // Brand Identity
-  name: "Taveve Store",
-  description: "Produk Digital 24/7 Otomatis",
-  author: "Taveve Group",
+  name: "Dede Portal",
+  description: "Dede Portal adalah satu tempat untuk melihat karya, aktivitas, dan informasi saya dalam satu akses yang simpel.",
+  author: "Dede",
   
   // SEO & Metadata Settings
   seo: {
@@ -33,17 +33,19 @@ export const siteConfig = {
 
 
   keywords: ["Produk Digital", "Premium Account", "Netflix Murah", "Spotify Premium", "Taveve Store", "Reseller Produk Digital", "Layanan Otomatis"],
-  themeColor: "#ff9f1c",
+  themeColor: "#800020",
 
   // Assets (in public folder)
   logo: "/logo.png",
   favicon: "/icon.png",
   
-  // Theme Colors (Untuk referensi ganti warna)
+  // Theme Colors - Maroon Theme (Ubah disini untuk ganti warna!)
   colors: {
-    primary: "#ff9f1c", // Warna Orange Utama
-    secondary: "#1a1d29", // Warna Gelap Background
-    accent: "#ffffff"
+    primary: "#800020",      // Warna Utama
+    primaryLight: "#a00030", // Warna Lebih Terang (hover, dll)
+    primaryDark: "#5c0018",  // Warna Lebih Gelap
+    secondary: "#1a1d29",    // Warna Background Gelap
+    accent: "#ffffff"        // Warna Aksen
   },
 
   // Contact Information (WhatsApp)
@@ -103,7 +105,7 @@ export const siteConfig = {
 
   // Footer
   footer: {
-    text: "© Taveve Group",
-    link: "https://taveve.web.id"
+    text: "© by Dede",
+    link: "https://bydede.my.id"
   }
 };
