@@ -78,8 +78,8 @@ export default async function HomePage() {
                         className="glass-card glass-card-hover rounded-[12px] px-4 py-3 flex items-center justify-between group"
                       >
                         <div className="flex items-center gap-3">
-                          <div className="w-10 h-10 rounded-full bg-taveve-orange/15 flex items-center justify-center group-hover:bg-taveve-orange/25 transition-colors">
-                            <i className={`${item.icon} text-taveve-orange text-xl`}></i>
+                          <div className="flex items-center justify-center min-w-[40px]">
+                            <i className={`${item.icon} text-taveve-orange text-3xl drop-shadow-[0_0_8px_rgba(196,30,58,0.5)]`}></i>
                           </div>
                           <div>
                             <h3 className="font-semibold text-[14px] mb-0.5">{item.label}</h3>
@@ -95,8 +95,8 @@ export default async function HomePage() {
                         className="glass-card rounded-[12px] px-4 py-3 flex items-center justify-between group opacity-50 cursor-not-allowed relative"
                       >
                         <div className="flex items-center gap-3">
-                          <div className="w-10 h-10 rounded-full bg-gray-500/15 flex items-center justify-center">
-                            <i className={`${item.icon} text-gray-500 text-xl`}></i>
+                          <div className="flex items-center justify-center min-w-[40px]">
+                            <i className={`${item.icon} text-gray-600 text-3xl opacity-50`}></i>
                           </div>
                           <div>
                             <h3 className="font-semibold text-[14px] mb-0.5 text-gray-400">{item.label}</h3>
