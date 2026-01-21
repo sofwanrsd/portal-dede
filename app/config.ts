@@ -41,9 +41,9 @@ export const siteConfig = {
   
   // Theme Colors - Maroon Theme (Ubah disini untuk ganti warna!)
   colors: {
-    primary: "#800020",      // Warna Utama
-    primaryLight: "#a00030", // Warna Lebih Terang (hover, dll)
-    primaryDark: "#5c0018",  // Warna Lebih Gelap
+    primary: "#c41e3a",      // Warna Utama (Brighter Cardinal Red)
+    primaryLight: "#e63950", // Warna Lebih Terang (hover, dll)
+    primaryDark: "#9a1830",  // Warna Lebih Gelap
     secondary: "#1a1d29",    // Warna Background Gelap
     accent: "#ffffff"        // Warna Aksen
   },

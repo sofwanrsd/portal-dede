@@ -6,38 +6,38 @@
      Semua warna dikontrol dari sini!
      ============================================ */
   
-  /* Primary Color - Maroon (dari config.ts) */
-  --color-primary: #800020;
-  --color-primary-light: #a00030;
-  --color-primary-dark: #5c0018;
-  --color-primary-rgb: 128, 0, 32;
+  /* Primary Color - Cardinal Red (Brighter Maroon) */
+  --color-primary: #c41e3a;
+  --color-primary-light: #e63950;
+  --color-primary-dark: #9a1830;
+  --color-primary-rgb: 196, 30, 58;
   
   /* Background Colors */
-  --color-bg: #0b0c10;
-  --color-bg-elevated: #1a1d29;
-  --color-bg-card: rgba(255, 255, 255, 0.03);
+  --color-bg: #0a0a0f;
+  --color-bg-elevated: #16171f;
+  --color-bg-card: rgba(255, 255, 255, 0.05);
   
   /* Text Colors - High Contrast for Accessibility */
   --color-text-primary: #ffffff;
-  --color-text-secondary: #b0b0b0;
-  --color-text-muted: #6b7280;
-  --color-text-disabled: #4a4a4a;
+  --color-text-secondary: #c0c0c0;
+  --color-text-muted: #8b8b8b;
+  --color-text-disabled: #555555;
   
-  /* State Colors */
-  --color-success: #22c55e;
+  /* State Colors - Vibrant */
+  --color-success: #10b981;
   --color-warning: #f59e0b;
   --color-error: #ef4444;
   --color-info: #3b82f6;
   
-  /* Interactive States */
-  --color-hover: rgba(255, 255, 255, 0.08);
-  --color-active: rgba(255, 255, 255, 0.12);
-  --color-focus: rgba(128, 0, 32, 0.5);
-  --color-disabled: rgba(255, 255, 255, 0.05);
+  /* Interactive States - More Visible */
+  --color-hover: rgba(196, 30, 58, 0.15);
+  --color-active: rgba(196, 30, 58, 0.25);
+  --color-focus: rgba(196, 30, 58, 0.5);
+  --color-disabled: rgba(255, 255, 255, 0.08);
   
-  /* Borders */
-  --color-border: rgba(255, 255, 255, 0.1);
-  --color-border-hover: rgba(255, 255, 255, 0.2);
+  /* Borders - More Visible */
+  --color-border: rgba(255, 255, 255, 0.12);
+  --color-border-hover: rgba(196, 30, 58, 0.5);
 
   /* Legacy Support (untuk compatibility) */
   --taveve-orange: var(--color-primary);
