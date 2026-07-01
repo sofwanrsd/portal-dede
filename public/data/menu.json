@@ -1,110 +1,110 @@
 [
-    {
-        "category": "About Me",
-        "items": [
-            {
-                "label": "Portfolio",
-                "subtitle": "Lihat karya saya",
-                "icon": "ri-briefcase-line",
-                "link": "https://portfolio.bydede.my.id/",
-                "active": false,
-                "status": "Coming Soon"
-            },
-            {
-                "label": "CV / Resume",
-                "subtitle": "Download CV saya",
-                "icon": "ri-file-user-line",
-                "link": "https://cv.bydede.my.id/xxx",
-                "active": false,
-                "status": "Coming Soon"
-            }
-        ]
-    },
-    {
-        "category": "Store",
-        "items": [
-            {
-                "label": "Taveve Store",
-                "subtitle": "Portal produk digital premium",
-                "icon": "ri-shopping-bag-line",
-                "link": "https://portal.tavevestore.web.id/",
-                "active": true
-            },
-            {
-                "label": "BOT Telegram",
-                "subtitle": "Sistem auto order produk digital berbasis bot",
-                "icon": "ri-shopping-cart-2-line",
-                "link": "https://t.me/tavevestore_bot",
-                "active": true,
-                "status": "On Going"
-            }
-        ]
-    },
-    {
-        "category": "Streaming",
-        "items": [
-            {
-                "label": "Drama China V1",
-                "subtitle": "Platform streaming drama china (DramaBox, NetShort, Melolo, FlickReels)",
-                "icon": "ri-movie-2-line",
-                "link": "https://v1.taveve.web.id/",
-                "active": true
-            },
-            {
-                "label": "Drama China V2",
-                "subtitle": "Platform streaming drama china (xxx)",
-                "icon": "ri-play-circle-line",
-                "link": "https://v2.taveve.web.id/",
-                "active": false,
-                "status": "Coming Soon"
-            }
-        ]
-    },
-    {
-        "category": "Social Media",
-        "items": [
-            {
-                "label": "Instagram",
-                "subtitle": "Follow my instagram @sofwanrosyidi_",
-                "icon": "ri-instagram-line",
-                "link": "https://instagram.com/sofwanrosyidi_",
-                "active": true
-            },
-            {
-                "label": "X",
-                "subtitle": "Follow my X",
-                "icon": "ri-twitter-x-line",
-                "link": "https://twitter.com/xxx",
-                "active": false,
-                "status": "Coming Soon"
-            },
-            {
-                "label": "TikTok",
-                "subtitle": "Follow my TikTok",
-                "icon": "ri-tiktok-line",
-                "link": "https://tiktok.com/@xxx",
-                "active": false,
-                "status": "Coming Soon"
-            }
-        ]
-    },
-    {
-        "category": "Contact",
-        "items": [
-            {
-                "label": "WhatsApp",
-                "subtitle": "Chat langsung",
-                "icon": "ri-whatsapp-line",
-                "link": "https://wa.me/6281232729502",
-                "active": true
-            },
-            {
-                "label": "Telegram",
-                "subtitle": "Message me",
-                "icon": "ri-telegram-line",
-                "link": "https://t.me/WannnAja",
-                "active": true
-            }
-        ]
-    }
+  {
+    "category": "About Me",
+    "items": [
+      {
+        "label": "Portfolio",
+        "subtitle": "Lihat karya saya",
+        "icon": "ri-briefcase-line",
+        "link": "https://portfolio.bydede.my.id/",
+        "active": false,
+        "status": "Coming Soon"
+      },
+      {
+        "label": "CV / Resume",
+        "subtitle": "Download CV saya",
+        "icon": "ri-file-user-line",
+        "link": "https://cv.bydede.my.id/xxx",
+        "active": false,
+        "status": "Coming Soon"
+      }
+    ]
+  },
+  {
+    "category": "Store",
+    "items": [
+      {
+        "label": "Taveve Store",
+        "subtitle": "Website produk digital premium",
+        "icon": "ri-shopping-bag-line",
+        "link": "https://taveve.store/",
+        "active": true
+      },
+      {
+        "label": "BOT Telegram",
+        "subtitle": "Sistem auto order produk digital berbasis bot",
+        "icon": "ri-shopping-cart-2-line",
+        "link": "https://t.me/tavevestore_bot",
+        "active": true,
+        "status": "On Going"
+      }
+    ]
+  },
+  {
+    "category": "Streaming",
+    "items": [
+      {
+        "label": "Drama China V1",
+        "subtitle": "Platform streaming drama china (DramaBox, NetShort, Melolo, FlickReels)",
+        "icon": "ri-movie-2-line",
+        "link": "https://v1.taveve.web.id/",
+        "active": true
+      },
+      {
+        "label": "Drama China V2",
+        "subtitle": "Platform streaming drama china (xxx)",
+        "icon": "ri-play-circle-line",
+        "link": "https://v2.taveve.web.id/",
+        "active": false,
+        "status": "Coming Soon"
+      }
+    ]
+  },
+  {
+    "category": "Social Media",
+    "items": [
+      {
+        "label": "Instagram",
+        "subtitle": "Follow my instagram @sofwanrosyidi_",
+        "icon": "ri-instagram-line",
+        "link": "https://instagram.com/sofwanrosyidi_",
+        "active": true
+      },
+      {
+        "label": "X",
+        "subtitle": "Follow my X",
+        "icon": "ri-twitter-x-line",
+        "link": "https://twitter.com/xxx",
+        "active": false,
+        "status": "Coming Soon"
+      },
+      {
+        "label": "TikTok",
+        "subtitle": "Follow my TikTok",
+        "icon": "ri-tiktok-line",
+        "link": "https://tiktok.com/@xxx",
+        "active": false,
+        "status": "Coming Soon"
+      }
+    ]
+  },
+  {
+    "category": "Contact",
+    "items": [
+      {
+        "label": "WhatsApp",
+        "subtitle": "Chat langsung",
+        "icon": "ri-whatsapp-line",
+        "link": "https://wa.me/6281232729502",
+        "active": true
+      },
+      {
+        "label": "Telegram",
+        "subtitle": "Message me",
+        "icon": "ri-telegram-line",
+        "link": "https://t.me/WannnAja",
+        "active": true
+      }
+    ]
+  }
 ]
