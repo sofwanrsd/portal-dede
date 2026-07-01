@@ -7,15 +7,15 @@
         "subtitle": "Lihat karya saya",
         "icon": "ri-briefcase-line",
         "link": "https://portfolio.bydede.my.id/",
-        "active": false,
+        "active": true,
         "status": "Coming Soon"
       },
       {
         "label": "CV / Resume",
         "subtitle": "Download CV saya",
         "icon": "ri-file-user-line",
-        "link": "https://cv.bydede.my.id/xxx",
-        "active": false,
+        "link": "https://drive.google.com/file/d/1JUv4m63w3po21sqI1pQWHUGzcTM6tmxF/view?usp=sharing",
+        "active": true,
         "status": "Coming Soon"
       }
     ]
